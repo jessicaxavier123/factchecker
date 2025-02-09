@@ -7,16 +7,12 @@ Original file is located at
     https://colab.research.google.com/drive/1xV4XESqbgLPzJzLEhqpOetF2OXC6rbTx
 """
 
-!pip install jsonlines
-!pip install langchain
-!pip install boto3
-!pip install python-dotenv
-!pip install langchain-community
-!pip install wikipedia
-
-#git remote add origin https://github.com/jessicaxavier123/factchecker.git
-#git branch -M main
-#git push -u origin main
+#!pip install jsonlines
+#!pip install langchain
+#!pip install boto3
+#!pip install python-dotenv
+#!pip install langchain-community
+#!pip install wikipedia
 
 import jsonlines
 import boto3
